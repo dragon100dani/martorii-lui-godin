@@ -37,6 +37,7 @@ int solutie(int k)
 void tipar(int k)
 {
     int i;
+    ///changeme
     for(i=1;i<=k;i++)
     f<<x[i];
     f<<endl;
